@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dX2Vfa2m3TStrCnOc2w6fwBCfrs4qogje19v7tso06T+D1EkHATOfRth6sLBmKwDd8j4N2tBSlLU8ig9hKqvOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicol\\source\\repos\\Diamantes\\Diamantes.ConsoleApp\\Diamantes.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
